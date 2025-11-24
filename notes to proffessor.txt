@@ -1,0 +1,10 @@
+Hello professor,
+
+Thanks for such an amazing course, I really enjoyed the contents of it and your delivery. It was a great pleasure to return back to my software development routes and refresh my coding knowledge.
+I wish we could have you here in Kazakhstan to conduct this course on campus. 
+
+This submission contains one jupyter notebook per section. All the sections except the last two have separate code blocks for their parts, and the last two I decided to write in one block since it seemed awkward to bring out the data split and training to a different block of code when in fact it all can go in one run. Also you can find my portfolio in .docx format in this archive as well. 
+
+I have also published this archive into GitHub as an open source repo. However I did it in the end, so sadly there is no chronology of changes I made throughout this journey. You can find it on https://github.com/laqube/emem539_bigdata.
+
+Wish you all the best, have a great upcoming new year and Christmas!
